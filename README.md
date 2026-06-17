@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, I'm Yuvaan 👋
 
 ### Aspiring Cyber Security Degree Apprentice | ISC2 CC | RAFAC Flight Sergeant
@@ -19,4 +17,4 @@ This GitHub serves as my technical portfolio, showcasing my hands-on projects in
 * 🌐 Deepening my understanding of network fundamentals and traffic analysis.
 
 ### 📫 Let's Connect
-* **LinkedIn:** https://www.linkedin.com/in/yuvaan-prasad-6b33b7323/<!--
+* **LinkedIn:** https://www.linkedin.com/in/yuvaan-prasad-6b33b7323/
