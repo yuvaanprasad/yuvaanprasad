@@ -15,6 +15,7 @@ This GitHub serves as my technical portfolio, showcasing my hands-on projects in
 * 🐍 Developing automated security tools in Python (Log parsing, file integrity).
 * 🐧 Mastering the Linux command line (OverTheWire, TryHackMe).
 * 🌐 Deepening my understanding of network fundamentals and traffic analysis.
+* 🎓 Studying A-Level Computer Science, Electronics, Maths and Geography in the 6th form from Sept 2026 onwards.
 
 ### 📫 Let's Connect
 * **LinkedIn:** https://www.linkedin.com/in/yuvaan-prasad-6b33b7323/
